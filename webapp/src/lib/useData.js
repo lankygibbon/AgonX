@@ -4,12 +4,15 @@ import { useFiltersStore } from '../stores/filters.js'
 
 const cache = {}
 
+const base = import.meta.env.BASE_URL
+
 async function fetchJson(path) {
-  if (cache[path]) return cache[path]
-  const res = await fetch(path)
+  const url = base + path.replace(/^\//, '')
+  if (cache[url]) return cache[url]
+  const res = await fetch(url)
   if (!res.ok) throw new Error(`Failed to fetch ${path}: ${res.status}`)
-  cache[path] = await res.json()
-  return cache[path]
+  cache[url] = await res.json()
+  return cache[url]
 }
 
 /**
