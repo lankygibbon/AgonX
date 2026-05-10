@@ -1,0 +1,6 @@
+scrapers/.venv/
+scrapers/.python-version
+scrapers/data/
+__pycache__/
+*.pyc
+.claude/

@@ -1,0 +1,768 @@
+{
+  "schema_family": "athx",
+  "workout_schema": "2024",
+  "teams": [
+    {
+      "team": "Tara Kafke & Emily Haynes",
+      "event": "ATHX FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 393.0,
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 148.0,
+            "deadlift_5_rep_max": 245.0
+          }
+        },
+        "endurance": {},
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Tara Kafke",
+          "user_id": null,
+          "match_confidence": 0.364,
+          "scores": {}
+        },
+        {
+          "name": "Emily Haynes",
+          "user_id": null,
+          "match_confidence": 0.417,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Sophie Bowen & Emily Reekie",
+      "event": "ATHX FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 391.0,
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 141.0,
+            "deadlift_5_rep_max": 250.0
+          }
+        },
+        "endurance": {},
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Sophie Bowen",
+          "user_id": null,
+          "match_confidence": 0.25,
+          "scores": {}
+        },
+        {
+          "name": "Emily Reekie",
+          "user_id": null,
+          "match_confidence": 0.5,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Hannah Shanks-Weston & Katie Hall",
+      "event": "ATHX FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 374.0
+        },
+        "endurance": {},
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Hannah Shanks-Weston",
+          "user_id": null,
+          "match_confidence": 0.278,
+          "scores": {}
+        },
+        {
+          "name": "Katie Hall",
+          "user_id": null,
+          "match_confidence": 0.364,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Tara Kafke & Emily Haynes",
+      "event": "ATHX LONDON",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 385.0,
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 145.0,
+            "deadlift_5_rep_max": 240.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Tara Kafke",
+          "user_id": null,
+          "match_confidence": 0.154,
+          "scores": {}
+        },
+        {
+          "name": "Emily Haynes",
+          "user_id": null,
+          "match_confidence": 0.286,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Amy Fish & Melanie Carsten",
+      "event": "ATHX FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 393.0,
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 115.0,
+            "deadlift_5_rep_max": 278.0
+          }
+        },
+        "endurance": {}
+      },
+      "members": [
+        {
+          "name": "Amy Fish",
+          "user_id": null,
+          "match_confidence": 0.3,
+          "scores": {}
+        },
+        {
+          "name": "Melanie Carsten",
+          "user_id": null,
+          "match_confidence": 0.323,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Stephanie Boggan & Jade Collins",
+      "event": "ATHX BIRMINGHAM",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 360.0
+        },
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Stephanie Boggan",
+          "user_id": null,
+          "match_confidence": 0.312,
+          "scores": {}
+        },
+        {
+          "name": "Jade Collins",
+          "user_id": null,
+          "match_confidence": 0.417,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Olivia Kreigenfeld & Vicki Horner",
+      "event": "ATHX FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 360.0
+        }
+      },
+      "members": [
+        {
+          "name": "Olivia Kreigenfeld",
+          "user_id": null,
+          "match_confidence": 0.412,
+          "scores": {}
+        },
+        {
+          "name": "Vicki Horner",
+          "user_id": null,
+          "match_confidence": 0.357,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Stephanie Boggan & Jade Collins",
+      "event": "ATHX FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 371.0
+        },
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Stephanie Boggan",
+          "user_id": null,
+          "match_confidence": 0.286,
+          "scores": {}
+        },
+        {
+          "name": "Jade Collins",
+          "user_id": null,
+          "match_confidence": 0.417,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Sophie Bowen & Emily Reekie",
+      "event": "ATHX LONDON",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 375.0
+        }
+      },
+      "members": [
+        {
+          "name": "Sophie Bowen",
+          "user_id": null,
+          "match_confidence": 0.214,
+          "scores": {}
+        },
+        {
+          "name": "Emily Reekie",
+          "user_id": null,
+          "match_confidence": 0.214,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Charlotte Morris & Ella Still",
+      "event": "ATHX LIVERPOOL",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 355.0
+        },
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Charlotte Morris",
+          "user_id": null,
+          "match_confidence": 0.154,
+          "scores": {}
+        },
+        {
+          "name": "Ella Still",
+          "user_id": null,
+          "match_confidence": 0.3,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Jess Halifax & Victoria Harvey-Cartmell",
+      "event": "ATHX GLASGOW",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 145.0,
+            "deadlift_5_rep_max": 295.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Jess Halifax",
+          "user_id": "01h1evm1a5xrxgawvafyfbjg72",
+          "match_confidence": 1.0,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_3_rep_max": 80.0,
+                "deadlift_5_rep_max": 150.0
+              }
+            }
+          }
+        },
+        {
+          "name": "Victoria Harvey-Cartmell",
+          "user_id": null,
+          "match_confidence": 0.0,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Johanna Szczyglowska & Melissa Morrison",
+      "event": "ATHX BIRMINGHAM",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 125.0,
+            "deadlift_5_rep_max": 290.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Johanna Szczyglowska",
+          "user_id": null,
+          "match_confidence": 0.389,
+          "scores": {}
+        },
+        {
+          "name": "Melissa Morrison",
+          "user_id": "01h03ge78jcrch6hj9msyst7sc",
+          "match_confidence": 1.0,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_3_rep_max": 65.0,
+                "deadlift_5_rep_max": 160.0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "team": "Johanna Szczyglowska & Melissa Morrison",
+      "event": "ATHX FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 124.0,
+            "deadlift_5_rep_max": 290.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Johanna Szczyglowska",
+          "user_id": null,
+          "match_confidence": 0.25,
+          "scores": {}
+        },
+        {
+          "name": "Melissa Morrison",
+          "user_id": "01h03ge78jcrch6hj9msyst7sc",
+          "match_confidence": 1.0,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_3_rep_max": 63.0,
+                "deadlift_5_rep_max": 160.0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "team": "Suzie Short & Ruth Hare",
+      "event": "ATHX LIVERPOOL",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 150.0,
+            "deadlift_5_rep_max": 260.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Suzie Short",
+          "user_id": null,
+          "match_confidence": 0.286,
+          "scores": {}
+        },
+        {
+          "name": "Ruth Hare",
+          "user_id": null,
+          "match_confidence": 0.211,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Shona Thomson & Rebecca Rooney",
+      "event": "ATHX LIVERPOOL",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 125.0,
+            "deadlift_5_rep_max": 285.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Shona Thomson",
+          "user_id": null,
+          "match_confidence": 0.261,
+          "scores": {}
+        },
+        {
+          "name": "Rebecca Rooney",
+          "user_id": null,
+          "match_confidence": 0.25,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Esther Johnson & Leonie Hendrickson",
+      "event": "ATHX LIVERPOOL",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_3_rep_max": 145.0,
+            "deadlift_5_rep_max": 240.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Esther Johnson",
+          "user_id": null,
+          "match_confidence": 0.333,
+          "scores": {}
+        },
+        {
+          "name": "Leonie Hendrickson",
+          "user_id": null,
+          "match_confidence": 0.214,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Amy Fish & Melanie Carsten",
+      "event": "ATHX BIRMINGHAM",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {}
+      },
+      "members": [
+        {
+          "name": "Amy Davies",
+          "user_id": "01j6m898e27m0gfmner2h7z7ye",
+          "match_confidence": 0.667,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_3_rep_max": 70.0,
+                "deadlift_5_rep_max": 200.0
+              }
+            }
+          }
+        },
+        {
+          "name": "Melanie Carsten",
+          "user_id": null,
+          "match_confidence": 0.37,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Holly Bassett & Charlotte Reading",
+      "event": "ATHX BIRMINGHAM",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {}
+      },
+      "members": [
+        {
+          "name": "Holly Bassett",
+          "user_id": null,
+          "match_confidence": 0.348,
+          "scores": {}
+        },
+        {
+          "name": "Charlotte Reading",
+          "user_id": null,
+          "match_confidence": 0.414,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Jess Taylor & Beth Norris",
+      "event": "ATHX LIVERPOOL",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {}
+      },
+      "members": [
+        {
+          "name": "Jess Taylor",
+          "user_id": null,
+          "match_confidence": 0.571,
+          "scores": {}
+        },
+        {
+          "name": "Beth Norris",
+          "user_id": null,
+          "match_confidence": 0.19,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Tiarna Grimes & Maebh Moriarty",
+      "event": "ATHX LONDON",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {}
+      },
+      "members": [
+        {
+          "name": "Tiarna Grimes",
+          "user_id": null,
+          "match_confidence": 0.414,
+          "scores": {}
+        },
+        {
+          "name": "Maebh Moriarty",
+          "user_id": null,
+          "match_confidence": 0.467,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Lucy Slee & Angela du Boulay",
+      "event": "ATHX LIVERPOOL",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {}
+      },
+      "members": [
+        {
+          "name": "Lucy Slee",
+          "user_id": null,
+          "match_confidence": 0.211,
+          "scores": {}
+        },
+        {
+          "name": "Angela du Boulay",
+          "user_id": null,
+          "match_confidence": 0.308,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Hannah Shanks-Weston & Katie Hall",
+      "event": "ATHX LONDON",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {},
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Hannah Shanks-Weston",
+          "user_id": null,
+          "match_confidence": 0.278,
+          "scores": {}
+        },
+        {
+          "name": "Katie Hall",
+          "user_id": null,
+          "match_confidence": 0.154,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Kerry Lines & Becci Crawshaw",
+      "event": "ATHX BIRMINGHAM",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Kerry Lines",
+          "user_id": null,
+          "match_confidence": 0.476,
+          "scores": {}
+        },
+        {
+          "name": "Becci Crawshaw",
+          "user_id": null,
+          "match_confidence": 0.333,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Saara Bhailok & Paige King",
+      "event": "ATHX FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Saara Bhailok",
+          "user_id": null,
+          "match_confidence": 0.345,
+          "scores": {}
+        },
+        {
+          "name": "Matilda King",
+          "user_id": "01h8yea6jgr3cp7grakkyhsvae",
+          "match_confidence": 0.636,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_3_rep_max": 90.0,
+                "deadlift_5_rep_max": 150.0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "team": "Eva Carroll & Claudia Thompson",
+      "event": "ATHX BIRMINGHAM",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2024,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Eva Carroll",
+          "user_id": null,
+          "match_confidence": 0.444,
+          "scores": {}
+        },
+        {
+          "name": "Claudia Thompson",
+          "user_id": null,
+          "match_confidence": 0.5,
+          "scores": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "events": [
+    {
+      "id": "01k62ws4ers9v5pyjjpqnrq5ys",
+      "name": "ATHX LONDON 2026",
+      "year": 2026,
+      "schema_family": "athx",
+      "workout_schema": "2026",
+      "status": "completed"
+    },
+    {
+      "id": "01k62wvgrevcw7hm57vs5s6jdm",
+      "name": "ATHX MUNICH 2026",
+      "year": 2026,
+      "schema_family": "athx",
+      "workout_schema": "2026",
+      "status": "completed"
+    },
+    {
+      "id": "01kgscdpgz5g20bp2r40cz8zvy",
+      "name": "ATHX INVITATIONAL MIAMI BEACH",
+      "year": 2026,
+      "schema_family": "athx",
+      "workout_schema": "2026",
+      "status": "completed"
+    },
+    {
+      "id": "01k62wwjnb3sjtsqr52ns7knme",
+      "name": "ATHX MADRID 2026",
+      "year": 2026,
+      "schema_family": "athx",
+      "workout_schema": "2026",
+      "status": "completed"
+    },
+    {
+      "id": "01k62wxb6r08za61rgvn6jnhfn",
+      "name": "ATHX MILAN 2026",
+      "year": 2026,
+      "schema_family": "athx",
+      "workout_schema": "2026",
+      "status": "completed"
+    },
+    {
+      "id": "01k62wxy26ez6myg4bknyjcn5m",
+      "name": "ATHX PARIS 2026",
+      "year": 2026,
+      "schema_family": "athx",
+      "workout_schema": "2026",
+      "status": "completed"
+    },
+    {
+      "id": "01j6cd9dhyfb1q42q01r87mty3",
+      "name": "ATHX LONDON 2025",
+      "year": 2025,
+      "schema_family": "athx",
+      "workout_schema": "2025",
+      "status": "completed"
+    },
+    {
+      "id": "01j6cdaa0s31gsa9mtc6e91261",
+      "name": "ATHX GLASGOW 2025",
+      "year": 2025,
+      "schema_family": "athx",
+      "workout_schema": "2025",
+      "status": "completed"
+    },
+    {
+      "id": "01j6cdatcjn9320tnkx4a9v04w",
+      "name": "ATHX CARDIFF 2025",
+      "year": 2025,
+      "schema_family": "athx",
+      "workout_schema": "2025",
+      "status": "completed"
+    },
+    {
+      "id": "01j6cdbbga8qrf72h5ybkaas1q",
+      "name": "ATHX BIRMINGHAM 2025",
+      "year": 2025,
+      "schema_family": "athx",
+      "workout_schema": "2025",
+      "status": "completed"
+    },
+    {
+      "id": "01jwb85taz3qp0r6ze9mjr2wez",
+      "name": "ATHX DUBLIN 2025",
+      "year": 2025,
+      "schema_family": "athx",
+      "workout_schema": "2025",
+      "status": "completed"
+    },
+    {
+      "id": "01j6cdc7yq558r9sxt0ap7x80j",
+      "name": "ATHX LIVERPOOL 2025",
+      "year": 2025,
+      "schema_family": "athx",
+      "workout_schema": "2025",
+      "status": "completed"
+    },
+    {
+      "id": "01jx238ps2zmbpbmtexw9k4m8z",
+      "name": "ATHX BERLIN 2025",
+      "year": 2025,
+      "schema_family": "athx",
+      "workout_schema": "2025",
+      "status": "completed"
+    },
+    {
+      "id": "01j6cdcmjxqf498z3a73461104",
+      "name": "ATHX FINALS 2025",
+      "year": 2025,
+      "schema_family": "athx",
+      "workout_schema": "2025",
+      "status": "completed"
+    },
+    {
+      "id": "01hmrxt02kcxm06sdwgf9mkfnb",
+      "name": "ATHX LONDON",
+      "year": 2024,
+      "schema_family": "athx",
+      "workout_schema": "2024",
+      "status": "completed"
+    },
+    {
+      "id": "01hmrxtdc0tp6qx5ydxp9p0yv2",
+      "name": "ATHX GLASGOW",
+      "year": 2024,
+      "schema_family": "athx",
+      "workout_schema": "2024",
+      "status": "completed"
+    },
+    {
+      "id": "01hmrxv0qb12fgr2dk13nw9cz2",
+      "name": "ATHX BIRMINGHAM",
+      "year": 2024,
+      "schema_family": "athx",
+      "workout_schema": "2024",
+      "status": "completed"
+    },
+    {
+      "id": "01hmrxvnd7ewx0kq61qpz7qck5",
+      "name": "ATHX LIVERPOOL",
+      "year": 2024,
+      "schema_family": "athx",
+      "workout_schema": "2024",
+      "status": "completed"
+    },
+    {
+      "id": "01hmrxwqd11h054vxfb5mvxkpc",
+      "name": "ATHX FINALS",
+      "year": 2024,
+      "schema_family": "athx",
+      "workout_schema": "2024",
+      "status": "completed"
+    },
+    {
+      "id": "01h03f5q07n0fwnq9s41czkc3v",
+      "name": "ATHX GAMES MIDLANDS",
+      "year": 2023,
+      "schema_family": "athx",
+      "workout_schema": "2023",
+      "status": "completed"
+    },
+    {
+      "id": "01h03f5qmjx037vsr1epbz7d9r",
+      "name": "ATHX GAMES NORTH",
+      "year": 2023,
+      "schema_family": "athx",
+      "workout_schema": "2023",
+      "status": "completed"
+    },
+    {
+      "id": "01h03f5r1swg8jx0r1x4gksfjq",
+      "name": "ATHX GAMES SOUTH",
+      "year": 2023,
+      "schema_family": "athx",
+      "workout_schema": "2023",
+      "status": "completed"
+    },
+    {
+      "id": "01h03f5rhe5pyy3f83g8naf09f",
+      "name": "ATHX GAMES OPEN",
+      "year": 2023,
+      "schema_family": "athx",
+      "workout_schema": "2023",
+      "status": "completed"
+    },
+    {
+      "id": "01h7avmnq5vjw248mm7w2nqzp0",
+      "name": "ATHX GAMES FINALS",
+      "year": 2023,
+      "schema_family": "athx",
+      "workout_schema": "2023",
+      "status": "completed"
+    }
+  ]
+}

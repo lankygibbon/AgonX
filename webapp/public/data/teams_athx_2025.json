@@ -1,0 +1,906 @@
+{
+  "schema_family": "athx",
+  "workout_schema": "2025",
+  "teams": [
+    {
+      "team": "Hannah Brown & Alice Hardy",
+      "event": "ATHX FINALS 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 285.0,
+          "components": {
+            "5rm_back_squat": 212.0,
+            "10rm_strict_press": 73.0
+          }
+        },
+        "endurance": {
+          "total": 17.444,
+          "components": {
+            "part_a_run": 5.625,
+            "part_b_bike": 11.819
+          }
+        },
+        "metcon_x": {
+          "total": 696,
+          "time": "11:36"
+        }
+      },
+      "members": [
+        {
+          "name": "Hannah Brown",
+          "user_id": null,
+          "match_confidence": 0.308,
+          "scores": {}
+        },
+        {
+          "name": "Alice Hardy",
+          "user_id": null,
+          "match_confidence": 0.345,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Jayne Lo & Elise Davis",
+      "event": "ATHX LONDON 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 259.0
+        },
+        "endurance": {
+          "total": 17.439,
+          "components": {
+            "part_a_run": 5.45,
+            "part_b_bike": 11.989
+          }
+        },
+        "metcon_x": {
+          "total": 731,
+          "time": "12:11"
+        }
+      },
+      "members": [
+        {
+          "name": "Jayne Lo",
+          "user_id": null,
+          "match_confidence": 0.348,
+          "scores": {}
+        },
+        {
+          "name": "Elise Davis",
+          "user_id": null,
+          "match_confidence": 0.5,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Samantha Johnson & Aliya Arthur",
+      "event": "ATHX BIRMINGHAM 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 264.0,
+          "components": {
+            "5rm_back_squat": 197.0,
+            "10rm_strict_press": 67.0
+          }
+        },
+        "endurance": {
+          "total": 17.232
+        },
+        "metcon_x": {
+          "total": 804,
+          "time": "13:24"
+        }
+      },
+      "members": [
+        {
+          "name": "Samantha Johnson",
+          "user_id": null,
+          "match_confidence": 0.37,
+          "scores": {}
+        },
+        {
+          "name": "Aliya Arthur",
+          "user_id": null,
+          "match_confidence": 0.435,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Samantha Johnson & Aliya Arthur",
+      "event": "ATHX FINALS 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 265.0,
+          "components": {
+            "5rm_back_squat": 195.0,
+            "10rm_strict_press": 70.0
+          }
+        },
+        "endurance": {
+          "total": 17.197
+        },
+        "metcon_x": {
+          "total": 810,
+          "time": "13:30"
+        }
+      },
+      "members": [
+        {
+          "name": "Samantha Johnson",
+          "user_id": null,
+          "match_confidence": 0.4,
+          "scores": {}
+        },
+        {
+          "name": "Aliya Arthur",
+          "user_id": null,
+          "match_confidence": 0.385,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Maebh Moriarty & Tiarna Grimes",
+      "event": "ATHX FINALS 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 248.0
+        },
+        "endurance": {
+          "total": 17.473,
+          "components": {
+            "part_a_run": 5.525,
+            "part_b_bike": 11.948
+          }
+        },
+        "metcon_x": {
+          "total": 755,
+          "time": "12:35"
+        }
+      },
+      "members": [
+        {
+          "name": "Maebh Moriarty",
+          "user_id": null,
+          "match_confidence": 0.375,
+          "scores": {}
+        },
+        {
+          "name": "Tiarna Grimes",
+          "user_id": null,
+          "match_confidence": 0.258,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Yasemin Aktuna & Francesca Castillo",
+      "event": "ATHX GLASGOW 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 257.0
+        },
+        "endurance": {
+          "total": 17.12
+        },
+        "metcon_x": {
+          "total": 771,
+          "time": "12:51"
+        }
+      },
+      "members": [
+        {
+          "name": "Yasemin Aktuna",
+          "user_id": null,
+          "match_confidence": 0.231,
+          "scores": {}
+        },
+        {
+          "name": "Francesca Castillo",
+          "user_id": null,
+          "match_confidence": 0.267,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "kia pullin & Bella Booth",
+      "event": "ATHX CARDIFF 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 242.0
+        },
+        "endurance": {
+          "total": 17.482,
+          "components": {
+            "part_a_run": 6.2,
+            "part_b_bike": 11.282
+          }
+        },
+        "metcon_x": {
+          "total": 781,
+          "time": "13:01"
+        }
+      },
+      "members": [
+        {
+          "name": "kia pullin",
+          "user_id": null,
+          "match_confidence": 0.207,
+          "scores": {}
+        },
+        {
+          "name": "Bella Booth",
+          "user_id": null,
+          "match_confidence": 0.333,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Jacinda Brass & Kyra Waterfall",
+      "event": "ATHX FINALS 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 254.0
+        },
+        "endurance": {
+          "total": 16.791
+        },
+        "metcon_x": {
+          "total": 773,
+          "time": "12:53"
+        }
+      },
+      "members": [
+        {
+          "name": "Jacinda Brass",
+          "user_id": null,
+          "match_confidence": 0.296,
+          "scores": {}
+        },
+        {
+          "name": "Kyra Waterfall",
+          "user_id": null,
+          "match_confidence": 0.25,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Jacinda Brass & Kyra Waterfall",
+      "event": "ATHX LIVERPOOL 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 244.0
+        },
+        "endurance": {
+          "total": 17.083
+        },
+        "metcon_x": {
+          "total": 756,
+          "time": "12:36"
+        }
+      },
+      "members": [
+        {
+          "name": "Jacinda Brass",
+          "user_id": null,
+          "match_confidence": 0.278,
+          "scores": {}
+        },
+        {
+          "name": "Kyra Waterfall",
+          "user_id": null,
+          "match_confidence": 0.378,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Leanne Vickers & Hannah Willmett",
+      "event": "ATHX CARDIFF 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 255.0
+        },
+        "endurance": {
+          "total": 17.153
+        },
+        "metcon_x": {
+          "total": 889,
+          "time": "14:49"
+        }
+      },
+      "members": [
+        {
+          "name": "Leanne Vickers",
+          "user_id": null,
+          "match_confidence": 0.303,
+          "scores": {}
+        },
+        {
+          "name": "Hannah Willmett",
+          "user_id": null,
+          "match_confidence": 0.353,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Cerys Johnson & rosie firth",
+      "event": "ATHX GLASGOW 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "5rm_back_squat": 227.0,
+            "10rm_strict_press": 76.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Cerys Johnson",
+          "user_id": null,
+          "match_confidence": 0.357,
+          "scores": {}
+        },
+        {
+          "name": "rosie firth",
+          "user_id": null,
+          "match_confidence": 0.261,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Nasmeen Imran & Sam Rashid",
+      "event": "ATHX BIRMINGHAM 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "5rm_back_squat": 235.0,
+            "10rm_strict_press": 62.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Nasmeen Imran",
+          "user_id": null,
+          "match_confidence": 0.286,
+          "scores": {}
+        },
+        {
+          "name": "Amy Walsh",
+          "user_id": "01jtnffgsr1eae0q6azxe0f20a",
+          "match_confidence": 0.632,
+          "scores": {
+            "endurance": {
+              "components": {
+                "part_a_run": 2.975,
+                "part_b_bike": 6.441
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "team": "Jess Halifax & Victoria Harvey-Cartmell",
+      "event": "ATHX GLASGOW 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "5rm_back_squat": 210.0,
+            "10rm_strict_press": 82.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Jess Halifax",
+          "user_id": "01h1evm1a5xrxgawvafyfbjg72",
+          "match_confidence": 1.0,
+          "scores": {
+            "strength": {
+              "components": {
+                "5rm_back_squat": 120.0,
+                "10rm_strict_press": 42.0
+              }
+            }
+          }
+        },
+        {
+          "name": "Victoria Harvey-Cartmell",
+          "user_id": null,
+          "match_confidence": 0.222,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Megan Bie & Charlie Conde",
+      "event": "ATHX LIVERPOOL 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "5rm_back_squat": 208.0,
+            "10rm_strict_press": 65.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Megan Bie",
+          "user_id": null,
+          "match_confidence": 0.312,
+          "scores": {}
+        },
+        {
+          "name": "Charlie Conde",
+          "user_id": null,
+          "match_confidence": 0.25,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Helen Webster & Stephanie Dixon",
+      "event": "ATHX LIVERPOOL 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "5rm_back_squat": 210.0,
+            "10rm_strict_press": 61.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Helen Webster",
+          "user_id": null,
+          "match_confidence": 0.333,
+          "scores": {}
+        },
+        {
+          "name": "Stephanie Dixon",
+          "user_id": null,
+          "match_confidence": 0.211,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Vassilia Lafchis & Alice Wilkinson",
+      "event": "ATHX FINALS 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "5rm_back_squat": 205.0,
+            "10rm_strict_press": 65.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Vassilia Lafchis",
+          "user_id": null,
+          "match_confidence": 0.4,
+          "scores": {}
+        },
+        {
+          "name": "Alice Wilkinson",
+          "user_id": null,
+          "match_confidence": 0.303,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Nicole Barbour & Lynsey Mcdonnell",
+      "event": "ATHX GLASGOW 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "5rm_back_squat": 195.0,
+            "10rm_strict_press": 73.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Nicole Barbour",
+          "user_id": null,
+          "match_confidence": 0.231,
+          "scores": {}
+        },
+        {
+          "name": "Lynsey Mcdonnell",
+          "user_id": null,
+          "match_confidence": 0.323,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "rosie walsh & Amy Walsh",
+      "event": "ATHX BIRMINGHAM 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {
+          "components": {
+            "part_a_run": 5.95,
+            "part_b_bike": 12.9
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "rosie walsh",
+          "user_id": "01jtmy6jn6abk5nayz11w35dkj",
+          "match_confidence": 1.0,
+          "scores": {
+            "endurance": {
+              "components": {
+                "part_a_run": 2.975,
+                "part_b_bike": 6.459
+              }
+            }
+          }
+        },
+        {
+          "name": "Amy Walsh",
+          "user_id": "01jtnffgsr1eae0q6azxe0f20a",
+          "match_confidence": 1.0,
+          "scores": {
+            "endurance": {
+              "components": {
+                "part_a_run": 2.975,
+                "part_b_bike": 6.441
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "team": "Hannah Casserley & antonia croft",
+      "event": "ATHX LONDON 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {
+          "components": {
+            "part_a_run": 5.775,
+            "part_b_bike": 11.847
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Hannah Casserley",
+          "user_id": null,
+          "match_confidence": 0.276,
+          "scores": {}
+        },
+        {
+          "name": "antonia croft",
+          "user_id": null,
+          "match_confidence": 0.357,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Claudia Thompson & Lottie Acton",
+      "event": "ATHX GLASGOW 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {
+          "components": {
+            "part_a_run": 5.35,
+            "part_b_bike": 12.18
+          }
+        },
+        "metcon_x": {
+          "total": 768,
+          "time": "12:48"
+        }
+      },
+      "members": [
+        {
+          "name": "Claudia Thompson",
+          "user_id": null,
+          "match_confidence": 0.387,
+          "scores": {}
+        },
+        {
+          "name": "Lottie Acton",
+          "user_id": null,
+          "match_confidence": 0.37,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Michelle Krahnenfeld & Lina Michaelis",
+      "event": "ATHX BERLIN 2025",
+      "country": "Germany 🇩🇪",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {
+          "components": {
+            "part_a_run": 5.65,
+            "part_b_bike": 11.831
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Michelle Krahnenfeld",
+          "user_id": null,
+          "match_confidence": 0.0,
+          "scores": {}
+        },
+        {
+          "name": "Lina Michaelis",
+          "user_id": null,
+          "match_confidence": 0.0,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Laura Thomanek & Tamara Becker",
+      "event": "ATHX BERLIN 2025",
+      "country": "Germany 🇩🇪",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {
+          "components": {
+            "part_a_run": 5.4,
+            "part_b_bike": 11.97
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Laura Thomanek",
+          "user_id": null,
+          "match_confidence": 0.0,
+          "scores": {}
+        },
+        {
+          "name": "Tamara Becker",
+          "user_id": null,
+          "match_confidence": 0.0,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Suzie Tinlin & Michelle Farrow",
+      "event": "ATHX CARDIFF 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance": {
+          "components": {
+            "part_a_run": 5.275,
+            "part_b_bike": 12.073
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Suzie Tinlin",
+          "user_id": null,
+          "match_confidence": 0.129,
+          "scores": {}
+        },
+        {
+          "name": "Michelle Farrow",
+          "user_id": null,
+          "match_confidence": 0.176,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Franka Arendt & Svenja Herbert",
+      "event": "ATHX BERLIN 2025",
+      "country": "Germany 🇩🇪",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {
+          "total": 290,
+          "time": "04:50"
+        }
+      },
+      "members": [
+        {
+          "name": "Franka Arendt",
+          "user_id": null,
+          "match_confidence": 0.0,
+          "scores": {}
+        },
+        {
+          "name": "Svenja Herbert",
+          "user_id": null,
+          "match_confidence": 0.0,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Hannah Brown & Alice Hardy",
+      "event": "ATHX GLASGOW 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {
+          "total": 705,
+          "time": "11:45"
+        }
+      },
+      "members": [
+        {
+          "name": "Hannah Brown",
+          "user_id": null,
+          "match_confidence": 0.37,
+          "scores": {}
+        },
+        {
+          "name": "Alice Hardy",
+          "user_id": null,
+          "match_confidence": 0.522,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Niamh Fitzgerald & Gemma Picton",
+      "event": "ATHX LONDON 2025",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2025,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {
+          "total": 736,
+          "time": "12:16"
+        }
+      },
+      "members": [
+        {
+          "name": "Niamh Fitzgerald",
+          "user_id": null,
+          "match_confidence": 0.323,
+          "scores": {}
+        },
+        {
+          "name": "Gemma Picton",
+          "user_id": null,
+          "match_confidence": 0.417,
+          "scores": {}
+        }
+      ]
+    }
+  ]
+}

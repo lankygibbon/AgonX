@@ -1,0 +1,309 @@
+{
+  "athx": {
+    "2026": {
+      "strength": {
+        "name": "Strength",
+        "filter_id": "01kfz69y6d8vfs4107x19kcfqp",
+        "scoring": "desc",
+        "unit": "kg",
+        "result_field": "total_kg",
+        "components": [
+          {
+            "id": "1rm_strict_press",
+            "label": "1RM Strict Press",
+            "unit": "kg",
+            "filter_id": "01kfz6a0vk2q0mgtte3nm0m3qh",
+            "per_person": true
+          },
+          {
+            "id": "3rm_back_squat",
+            "label": "3RM Back Squat",
+            "unit": "kg",
+            "filter_id": "01kfz6a0wx8nk9jxbcefx488vx",
+            "per_person": true
+          },
+          {
+            "id": "5rm_deadlift",
+            "label": "5RM Deadlift",
+            "unit": "kg",
+            "filter_id": "01kfz6a0y0a9n2wyg3jerwjvb9",
+            "per_person": true
+          }
+        ]
+      },
+      "endurance": {
+        "name": "Endurance",
+        "filter_id": "01kfz69yf1wbterd9pjfjvq4zw",
+        "scoring": "desc",
+        "unit": "km",
+        "result_field": "total_km",
+        "components": [
+          {
+            "id": "run",
+            "label": "Run",
+            "unit": "km",
+            "filter_id": "01kfz6a179ygth7vawqn5y6xbb",
+            "per_person": true
+          },
+          {
+            "id": "row",
+            "label": "Row",
+            "unit": "km",
+            "filter_id": "01kfz6a18fce4s51raa0zwk6xg",
+            "per_person": true
+          }
+        ]
+      },
+      "metcon_x": {
+        "name": "MetCon X",
+        "filter_id": "01kfz69ynhk32jj4q5c0755q5b",
+        "scoring": "asc",
+        "unit": "time",
+        "result_field": "time",
+        "components": []
+      }
+    },
+    "2025": {
+      "strength": {
+        "name": "Strength",
+        "filter_id": "01jhf7py8p1yykg6exyd2yzf3e",
+        "scoring": "desc",
+        "unit": "kg",
+        "result_field": "total_kg",
+        "components": [
+          {
+            "id": "5rm_back_squat",
+            "label": "5RM Back Squat",
+            "unit": "kg",
+            "filter_id": "01jhf7pp1h2qcts43j4e737yce",
+            "per_person": true
+          },
+          {
+            "id": "10rm_strict_press",
+            "label": "10RM Strict Press",
+            "unit": "kg",
+            "filter_id": "01jhf7pp2e2n38fafm34577pk3",
+            "per_person": true
+          }
+        ]
+      },
+      "endurance": {
+        "name": "Endurance",
+        "filter_id": "01jhf7pyb7v66km67884gctenw",
+        "scoring": "desc",
+        "unit": "km",
+        "result_field": "total_km",
+        "components": [
+          {
+            "id": "part_a_run",
+            "label": "Part A Run",
+            "unit": "km",
+            "filter_id": "01jhf7pp6xxt7vge736e47pffg",
+            "per_person": true
+          },
+          {
+            "id": "part_b_bike",
+            "label": "Part B Bike",
+            "unit": "km",
+            "filter_id": "01jhf7pp7hj5qg1t91tp4cgyyy",
+            "per_person": true
+          }
+        ]
+      },
+      "metcon_x": {
+        "name": "MetCon X",
+        "filter_id": "01jhf7pydgm7896b1drwd8v39b",
+        "scoring": "asc",
+        "unit": "time",
+        "result_field": "time",
+        "components": []
+      }
+    },
+    "2024": {
+      "strength": {
+        "name": "Strength",
+        "filter_id": "01htye366p1k2kzs2sxv4nxnxm",
+        "scoring": "desc",
+        "unit": "kg",
+        "result_field": "total_kg",
+        "components": [
+          {
+            "id": "team",
+            "label": "team",
+            "unit": "kg",
+            "filter_id": "",
+            "per_person": true
+          },
+          {
+            "id": "shoulder_to_overhead_3_rep_max",
+            "label": "Shoulder to overhead 3 rep max",
+            "unit": "kg",
+            "filter_id": "01htye367nef91hrgv3ypcv34s",
+            "per_person": false
+          },
+          {
+            "id": "deadlift_5_rep_max",
+            "label": "Deadlift 5 rep max",
+            "unit": "kg",
+            "filter_id": "01htye368t9tg6kpp4tgn3s9vj",
+            "per_person": false
+          }
+        ]
+      },
+      "endurance": {
+        "name": "Endurance",
+        "filter_id": "01htye36cqmjhv4dcphj0gegge",
+        "scoring": "desc",
+        "unit": "km",
+        "result_field": "total_km",
+        "components": [
+          {
+            "id": "team",
+            "label": "team",
+            "unit": "km",
+            "filter_id": "",
+            "per_person": true
+          },
+          {
+            "id": "5km_run_treadmill_or_max_total_distance_in_25_mins",
+            "label": "5KM Run Treadmill Or Max Total Distance in 25 Mins",
+            "unit": "km",
+            "filter_id": "01htye36dmss1gcn1qksb9q3jr",
+            "per_person": true
+          },
+          {
+            "id": "1km_ski-erg_2km_row_5km_bike",
+            "label": "1KM SKI-ERG 2KM Row 5KM Bike",
+            "unit": "km",
+            "filter_id": "01htye36emvmmshefkek83vaw7",
+            "per_person": true
+          }
+        ]
+      },
+      "metcon_x": {
+        "name": "MetCon X",
+        "filter_id": "01htye36hjwc82zb66a8r9k962",
+        "scoring": "desc",
+        "unit": "unknown",
+        "result_field": "score",
+        "components": [
+          {
+            "id": "team",
+            "label": "team",
+            "unit": "unknown",
+            "filter_id": "",
+            "per_person": true
+          },
+          {
+            "id": "metcon_x",
+            "label": "MetCon X",
+            "unit": "unknown",
+            "filter_id": "",
+            "per_person": true
+          }
+        ]
+      }
+    },
+    "2023": {
+      "strength": {
+        "name": "Strength",
+        "filter_id": "01h576we237zsgy1sfs1bpr58q",
+        "scoring": "desc",
+        "unit": "kg",
+        "result_field": "total_kg",
+        "components": [
+          {
+            "id": "team",
+            "label": "team",
+            "unit": "kg",
+            "filter_id": "",
+            "per_person": true
+          },
+          {
+            "id": "shoulder_to_overhead_1_rep_max",
+            "label": "Shoulder to overhead 1 rep max",
+            "unit": "kg",
+            "filter_id": "01h576we35at9ffh7rwmgt3hja",
+            "per_person": false
+          },
+          {
+            "id": "back_squat_10_rep_max",
+            "label": "Back squat 10 rep max",
+            "unit": "kg",
+            "filter_id": "01h576we4dbmwafk8q07bxscwt",
+            "per_person": false
+          }
+        ]
+      },
+      "endurance_part_a": {
+        "name": "Endurance Part A",
+        "filter_id": "01h576we7xhzg0qx47yq3bmgxx",
+        "scoring": "desc",
+        "unit": "km",
+        "result_field": "total_km",
+        "components": [
+          {
+            "id": "team",
+            "label": "team",
+            "unit": "km",
+            "filter_id": "",
+            "per_person": true
+          },
+          {
+            "id": "endurance_part_a",
+            "label": "Endurance Part A",
+            "unit": "km",
+            "filter_id": "",
+            "per_person": true
+          }
+        ]
+      },
+      "endurance_part_b": {
+        "name": "Endurance Part B",
+        "filter_id": "01h576we96dxxcnmsv42s8tdpc",
+        "scoring": "desc",
+        "unit": "km",
+        "result_field": "total_km",
+        "components": [
+          {
+            "id": "team",
+            "label": "team",
+            "unit": "km",
+            "filter_id": "",
+            "per_person": true
+          },
+          {
+            "id": "endurance_part_b",
+            "label": "Endurance Part B",
+            "unit": "km",
+            "filter_id": "",
+            "per_person": true
+          }
+        ]
+      },
+      "metcon_x": {
+        "name": "MetCon X",
+        "filter_id": "01h576weckyj2sd8137wx71yhb",
+        "scoring": "desc",
+        "unit": "unknown",
+        "result_field": "score",
+        "components": [
+          {
+            "id": "team",
+            "label": "team",
+            "unit": "unknown",
+            "filter_id": "",
+            "per_person": true
+          },
+          {
+            "id": "metcon_x",
+            "label": "MetCon X",
+            "unit": "unknown",
+            "filter_id": "",
+            "per_person": true
+          }
+        ]
+      }
+    }
+  }
+}
