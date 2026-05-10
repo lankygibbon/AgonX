@@ -263,20 +263,31 @@ function formatComponent(value, unit) {
                   <td class="hidden sm:table-cell px-4 py-2 text-xs text-slate-500">{{ c.event }}</td>
                   <!-- Per-workout score summary for each member -->
                   <td
-                    class="px-4 py-2 text-right text-xs text-slate-400"
+                    class="px-4 py-2 text-right text-xs"
                     :colspan="scoreColCount + 2"
                   >
                     <template v-if="Object.keys(member.scores || {}).length">
-                      <span
+                      <div
                         v-for="[wkey, wdef] in workoutEntries"
                         :key="wkey"
-                        class="ml-4"
+                        class="mb-1 last:mb-0"
                       >
                         <template v-if="formatMemberWorkout(member, wkey, wdef)">
-                          <span class="text-slate-600">{{ wdef.name }}:</span>
-                          <span class="text-slate-300 ml-1">{{ formatMemberWorkout(member, wkey, wdef) }}</span>
+                          <span class="text-slate-500">{{ wdef.name }}:</span>
+                          <span class="text-slate-300 ml-1 font-medium">{{ formatMemberWorkout(member, wkey, wdef) }}</span>
+                          <!-- Component breakdown -->
+                          <span
+                            v-if="wdef.components?.length && member.scores[wkey]?.components"
+                            class="text-slate-600 ml-2"
+                          >
+                            <span
+                              v-for="comp in wdef.components.filter(co => member.scores[wkey].components[co.id] != null)"
+                              :key="comp.id"
+                              class="ml-1"
+                            >{{ comp.label }}: {{ formatComponent(member.scores[wkey].components[comp.id], comp.unit) }}</span>
+                          </span>
                         </template>
-                      </span>
+                      </div>
                     </template>
                     <span v-else class="text-slate-600 italic">scores not linked</span>
                   </td>
