@@ -1,0 +1,1012 @@
+{
+  "schema_family": "athx",
+  "workout_schema": "2023",
+  "teams": [
+    {
+      "team": "Katty Weymouth & Nicky Screawn",
+      "event": "ATHX GAMES FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 348.0,
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 158.0,
+            "back_squat_10_rep_max": 190.0
+          }
+        },
+        "endurance_part_a": {},
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Katty Weymouth",
+          "user_id": null,
+          "match_confidence": 0.37,
+          "scores": {}
+        },
+        {
+          "name": "Nicky Screawn",
+          "user_id": null,
+          "match_confidence": 0.308,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Chloe Hinnigan & Lois Merrifield",
+      "event": "ATHX GAMES FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 331.0,
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 143.0,
+            "back_squat_10_rep_max": 188.0
+          }
+        },
+        "endurance_part_a": {},
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Chloe Hinnigan",
+          "user_id": null,
+          "match_confidence": 0.074,
+          "scores": {}
+        },
+        {
+          "name": "Lois Merrifield",
+          "user_id": null,
+          "match_confidence": 0.214,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Georgina Milward & Georgie Bullock",
+      "event": "ATHX GAMES FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 275.0
+        },
+        "endurance_part_a": {},
+        "endurance_part_b": {},
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Georgina Milward",
+          "user_id": null,
+          "match_confidence": 0.345,
+          "scores": {}
+        },
+        {
+          "name": "Georgie Bullock",
+          "user_id": null,
+          "match_confidence": 0.214,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Nicole Garner & Cara Jackson",
+      "event": "ATHX GAMES NORTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 300.0
+        },
+        "endurance_part_b": {}
+      },
+      "members": [
+        {
+          "name": "Nicole Garner",
+          "user_id": null,
+          "match_confidence": 0.432,
+          "scores": {}
+        },
+        {
+          "name": "Cara Jackson",
+          "user_id": null,
+          "match_confidence": 0.167,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Heather Reilly & Eilidh Gough",
+      "event": "ATHX GAMES NORTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 325.0
+        },
+        "endurance_part_b": {}
+      },
+      "members": [
+        {
+          "name": "Heather Reilly",
+          "user_id": null,
+          "match_confidence": 0.368,
+          "scores": {}
+        },
+        {
+          "name": "Eilidh Gough",
+          "user_id": null,
+          "match_confidence": 0.25,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Daniella Gavin & Ellis Shaw",
+      "event": "ATHX GAMES MIDLANDS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 330.0,
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 145.0,
+            "back_squat_10_rep_max": 185.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Daniella Gavin",
+          "user_id": null,
+          "match_confidence": 0.148,
+          "scores": {}
+        },
+        {
+          "name": "Ellis Shaw",
+          "user_id": null,
+          "match_confidence": 0.4,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Emily Reekie & Kate Fitzgibbon",
+      "event": "ATHX GAMES FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 285.0
+        },
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Emily Reekie",
+          "user_id": null,
+          "match_confidence": 0.56,
+          "scores": {}
+        },
+        {
+          "name": "Kate Fitzgibbon",
+          "user_id": null,
+          "match_confidence": 0.286,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Katty Weymouth & Nicky Screawn",
+      "event": "ATHX GAMES SOUTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 293.0
+        }
+      },
+      "members": [
+        {
+          "name": "Katty Weymouth",
+          "user_id": null,
+          "match_confidence": 0.32,
+          "scores": {}
+        },
+        {
+          "name": "Nicky Screawn",
+          "user_id": null,
+          "match_confidence": 0.261,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Alex Tetley & Jess Baggs",
+      "event": "ATHX GAMES FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 285.0
+        }
+      },
+      "members": [
+        {
+          "name": "Alex Tetley",
+          "user_id": null,
+          "match_confidence": 0.25,
+          "scores": {}
+        },
+        {
+          "name": "Jess Baggs",
+          "user_id": null,
+          "match_confidence": 0.174,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Georgina Milward & Georgie Bullock",
+      "event": "ATHX GAMES NORTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "total": 258.0
+        },
+        "endurance_part_a": {}
+      },
+      "members": [
+        {
+          "name": "Georgina Milward",
+          "user_id": null,
+          "match_confidence": 0.35,
+          "scores": {}
+        },
+        {
+          "name": "Georgie Bullock",
+          "user_id": null,
+          "match_confidence": 0.444,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Jess Halifax & Victoria Harvey-Cartmell",
+      "event": "ATHX GAMES NORTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 170.0,
+            "back_squat_10_rep_max": 205.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Jess Halifax",
+          "user_id": "01h1evm1a5xrxgawvafyfbjg72",
+          "match_confidence": 1.0,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_1_rep_max": 85.0,
+                "back_squat_10_rep_max": 105.0
+              }
+            }
+          }
+        },
+        {
+          "name": "Victoria Harvey-Cartmell",
+          "user_id": "01h2kkpth7drqzshfntmxdsqne",
+          "match_confidence": 1.0,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_1_rep_max": 85.0,
+                "back_squat_10_rep_max": 100.0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "team": "Holly Lamb & Yvie Lewis",
+      "event": "ATHX GAMES SOUTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 155.0,
+            "back_squat_10_rep_max": 205.0
+          }
+        },
+        "endurance_part_b": {}
+      },
+      "members": [
+        {
+          "name": "Holly Lamb",
+          "user_id": null,
+          "match_confidence": 0.381,
+          "scores": {}
+        },
+        {
+          "name": "Yvie Lewis",
+          "user_id": "01h50n88g6nh2xgym5y8r47c7r",
+          "match_confidence": 1.0,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_1_rep_max": 93.0,
+                "back_squat_10_rep_max": 120.0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "team": "Cesca Baguley & Maxine Smit",
+      "event": "ATHX GAMES SOUTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 158.0,
+            "back_squat_10_rep_max": 185.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Cesca Baguley",
+          "user_id": null,
+          "match_confidence": 0.348,
+          "scores": {}
+        },
+        {
+          "name": "Maxine Smit",
+          "user_id": null,
+          "match_confidence": 0.381,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Suzie Short & Ruth Hare",
+      "event": "ATHX GAMES OPEN",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 170.0,
+            "back_squat_10_rep_max": 170.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Suzie Short",
+          "user_id": null,
+          "match_confidence": 0.333,
+          "scores": {}
+        },
+        {
+          "name": "Ruth Hare",
+          "user_id": null,
+          "match_confidence": 0.231,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Susie Moore & Cat Smart",
+      "event": "ATHX GAMES OPEN",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 148.0,
+            "back_squat_10_rep_max": 190.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Susie Moore",
+          "user_id": null,
+          "match_confidence": 0.333,
+          "scores": {}
+        },
+        {
+          "name": "Cat Smart",
+          "user_id": null,
+          "match_confidence": 0.308,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Livi Sheldon & Charlotte Alexander",
+      "event": "ATHX GAMES SOUTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 148.0,
+            "back_squat_10_rep_max": 185.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Livi Sheldon",
+          "user_id": null,
+          "match_confidence": 0.364,
+          "scores": {}
+        },
+        {
+          "name": "Charlotte Alexander",
+          "user_id": null,
+          "match_confidence": 0.467,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Viv Lapushner & Simone Emmanuel",
+      "event": "ATHX GAMES OPEN",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "strength": {
+          "components": {
+            "shoulder_to_overhead_1_rep_max": 158.0,
+            "back_squat_10_rep_max": 175.0
+          }
+        }
+      },
+      "members": [
+        {
+          "name": "Viv Lapushner",
+          "user_id": "01h03gs0g6p08xpmjvd7kjncgc",
+          "match_confidence": 1.0,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_1_rep_max": 95.0,
+                "back_squat_10_rep_max": 85.0
+              }
+            }
+          }
+        },
+        {
+          "name": "Simone Emmanuel",
+          "user_id": null,
+          "match_confidence": 0.188,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Eden Backhouse & Natalia Karkoszka",
+      "event": "ATHX GAMES SOUTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_a": {}
+      },
+      "members": [
+        {
+          "name": "Eden Backhouse",
+          "user_id": null,
+          "match_confidence": 0.25,
+          "scores": {}
+        },
+        {
+          "name": "Natalia Karkoszka",
+          "user_id": null,
+          "match_confidence": 0.286,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Emily Reekie & Kate Fitzgibbon",
+      "event": "ATHX GAMES SOUTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_a": {}
+      },
+      "members": [
+        {
+          "name": "Emily Reekie",
+          "user_id": null,
+          "match_confidence": 0.273,
+          "scores": {}
+        },
+        {
+          "name": "Kate Fitzgibbon",
+          "user_id": null,
+          "match_confidence": 0.24,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Neevie Graham & Grace Edmonds",
+      "event": "ATHX GAMES MIDLANDS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_a": {}
+      },
+      "members": [
+        {
+          "name": "Neevie Graham",
+          "user_id": null,
+          "match_confidence": 0.357,
+          "scores": {}
+        },
+        {
+          "name": "Grace Edmonds",
+          "user_id": "01h03j71da3k9d08vfyeghkx76",
+          "match_confidence": 1.0,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_1_rep_max": 100.0,
+                "back_squat_10_rep_max": 120.0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "team": "Kirtsy Hendey & Charlotte Lamb",
+      "event": "ATHX GAMES MIDLANDS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_a": {},
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Kirtsy Hendey",
+          "user_id": null,
+          "match_confidence": 0.385,
+          "scores": {}
+        },
+        {
+          "name": "Charlotte Lamb",
+          "user_id": null,
+          "match_confidence": 0.345,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Sophie Bowen & Dayna Morgan",
+      "event": "ATHX GAMES SOUTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_a": {}
+      },
+      "members": [
+        {
+          "name": "Sophie Bowen",
+          "user_id": null,
+          "match_confidence": 0.364,
+          "scores": {}
+        },
+        {
+          "name": "Dayna Morgan",
+          "user_id": null,
+          "match_confidence": 0.182,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Chelsea Callaghan & Ceri Clarke",
+      "event": "ATHX GAMES FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_a": {}
+      },
+      "members": [
+        {
+          "name": "Chelsea Callaghan",
+          "user_id": null,
+          "match_confidence": 0.067,
+          "scores": {}
+        },
+        {
+          "name": "Ceri Clarke",
+          "user_id": null,
+          "match_confidence": 0.167,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Cat Rae & Jodie Graham",
+      "event": "ATHX GAMES MIDLANDS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_b": {}
+      },
+      "members": [
+        {
+          "name": "Cat Rae",
+          "user_id": null,
+          "match_confidence": 0.3,
+          "scores": {}
+        },
+        {
+          "name": "Jodie Graham",
+          "user_id": null,
+          "match_confidence": 0.444,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Sara-Jane Marchon & sophie Team",
+      "event": "ATHX GAMES MIDLANDS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_b": {}
+      },
+      "members": [
+        {
+          "name": "Sara-Jane Marchon",
+          "user_id": null,
+          "match_confidence": 0.467,
+          "scores": {}
+        },
+        {
+          "name": "sophie Team",
+          "user_id": null,
+          "match_confidence": 0.385,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Jessica Rose & Chloe Lewis",
+      "event": "ATHX GAMES MIDLANDS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_b": {}
+      },
+      "members": [
+        {
+          "name": "Jessica Rose",
+          "user_id": null,
+          "match_confidence": 0.222,
+          "scores": {}
+        },
+        {
+          "name": "Chloe Lewis",
+          "user_id": null,
+          "match_confidence": 0.417,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Vickie Cole & Nikki Stewart",
+      "event": "ATHX GAMES MIDLANDS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_b": {}
+      },
+      "members": [
+        {
+          "name": "Vickie Cole",
+          "user_id": null,
+          "match_confidence": 0.333,
+          "scores": {}
+        },
+        {
+          "name": "Nikki Stewart",
+          "user_id": null,
+          "match_confidence": 0.154,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Laura Hill & Carmen Keen",
+      "event": "ATHX GAMES MIDLANDS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_b": {}
+      },
+      "members": [
+        {
+          "name": "Laura Hill",
+          "user_id": null,
+          "match_confidence": 0.32,
+          "scores": {}
+        },
+        {
+          "name": "Carmen Keen",
+          "user_id": null,
+          "match_confidence": 0.25,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Claire Small & Renee York",
+      "event": "ATHX GAMES OPEN",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "endurance_part_b": {}
+      },
+      "members": [
+        {
+          "name": "Claire Small",
+          "user_id": null,
+          "match_confidence": 0.345,
+          "scores": {}
+        },
+        {
+          "name": "Renee York",
+          "user_id": null,
+          "match_confidence": 0.261,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Chloe Hinnigan & Lois Merrifield",
+      "event": "ATHX GAMES NORTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Chloe Hinnigan",
+          "user_id": null,
+          "match_confidence": 0.385,
+          "scores": {}
+        },
+        {
+          "name": "Lois Merrifield",
+          "user_id": null,
+          "match_confidence": 0.308,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Stephanie Boggan & Jade Collins",
+      "event": "ATHX GAMES NORTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Stephanie Boggan",
+          "user_id": null,
+          "match_confidence": 0.357,
+          "scores": {}
+        },
+        {
+          "name": "Jodie Collis",
+          "user_id": "01h3yc3fee4xk3z1btpxjb11af",
+          "match_confidence": 0.833,
+          "scores": {
+            "strength": {
+              "components": {
+                "shoulder_to_overhead_1_rep_max": 83.0,
+                "back_squat_10_rep_max": 103.0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "team": "Stephanie Boggan & Jade Collins",
+      "event": "ATHX GAMES FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Stephanie Boggan",
+          "user_id": null,
+          "match_confidence": 0.207,
+          "scores": {}
+        },
+        {
+          "name": "Jade Collins",
+          "user_id": null,
+          "match_confidence": 0.32,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Alice Hardy & Alex Tetley",
+      "event": "ATHX GAMES NORTH",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Alice Hardy",
+          "user_id": null,
+          "match_confidence": 0.4,
+          "scores": {}
+        },
+        {
+          "name": "Alex Tetley",
+          "user_id": null,
+          "match_confidence": 0.261,
+          "scores": {}
+        }
+      ]
+    },
+    {
+      "team": "Nicole Garner & Cara Jackson",
+      "event": "ATHX GAMES FINALS",
+      "country": "United Kingdom 🇬🇧",
+      "year": 2023,
+      "division": "Female",
+      "age_group": "69 & under",
+      "category": "ATHX",
+      "scores": {
+        "metcon_x": {}
+      },
+      "members": [
+        {
+          "name": "Nicole Garner",
+          "user_id": null,
+          "match_confidence": 0.231,
+          "scores": {}
+        },
+        {
+          "name": "Cara Jackson",
+          "user_id": null,
+          "match_confidence": 0.16,
+          "scores": {}
+        }
+      ]
+    }
+  ]
+}
