@@ -124,8 +124,8 @@ function chartOptions(wkey, wdef) {
 
 <template>
   <div class="mb-8 space-y-4">
-    <!-- Summary cards -->
-    <div class="grid grid-cols-2 gap-4" :style="`grid-template-columns: repeat(${2 + workoutEntries.length}, minmax(0, 1fr))`">
+    <!-- Summary cards: 2 cols on mobile, expands automatically on wider screens -->
+    <div class="grid gap-3" style="grid-template-columns: repeat(auto-fit, minmax(130px, 1fr))">
       <div class="bg-slate-800 border border-slate-700 rounded-xl p-4">
         <div class="text-xs text-slate-500 uppercase tracking-wide mb-1">Overall rank</div>
         <div class="text-3xl font-bold text-white">#{{ position }}</div>
@@ -135,7 +135,7 @@ function chartOptions(wkey, wdef) {
       <div class="bg-slate-800 border border-slate-700 rounded-xl p-4">
         <div class="text-xs text-slate-500 uppercase tracking-wide mb-1">Percentile</div>
         <div class="text-3xl font-bold text-orange-400">Top {{ percentile }}%</div>
-        <div class="text-sm text-slate-400 mt-0.5">{{ totalCount - position + 1 }} athletes ranked above</div>
+        <div class="text-sm text-slate-400 mt-0.5">{{ totalCount - position + 1 }} above you</div>
       </div>
 
       <div
@@ -143,21 +143,28 @@ function chartOptions(wkey, wdef) {
         :key="wkey"
         class="bg-slate-800 border border-slate-700 rounded-xl p-4"
       >
-        <div class="text-xs text-slate-500 uppercase tracking-wide mb-1">{{ wdef.name }}</div>
+        <div class="text-xs text-slate-500 uppercase tracking-wide mb-1 truncate">{{ wdef.name }}</div>
         <div class="text-2xl font-bold text-white">
           {{ predictedResult.workoutRanks?.[wkey] != null ? `#${predictedResult.workoutRanks[wkey]}` : '—' }}
         </div>
         <div class="text-xs text-slate-500 mt-0.5">
           of {{ countScored(wkey) }}
         </div>
-        <div class="text-sm text-slate-300 mt-1">
+        <div class="text-sm text-slate-300 mt-1 truncate">
           {{ formatWorkoutTotal(predictedResult, wkey, wdef) }}
         </div>
       </div>
     </div>
 
-    <!-- Distribution charts -->
-    <div class="grid gap-4" :class="workoutEntries.length > 1 ? 'md:grid-cols-3' : 'max-w-sm'">
+    <!-- Distribution charts: 1 col mobile, 2 col tablet, 3 col desktop -->
+    <div
+      class="grid grid-cols-1 gap-4"
+      :class="{
+        'max-w-sm mx-auto': workoutEntries.length === 1,
+        'sm:grid-cols-2': workoutEntries.length === 2,
+        'sm:grid-cols-2 lg:grid-cols-3': workoutEntries.length >= 3,
+      }"
+    >
       <div
         v-for="[wkey, wdef] in workoutEntries"
         :key="wkey"
