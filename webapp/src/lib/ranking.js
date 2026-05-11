@@ -80,11 +80,15 @@ export function rankCompetitors(competitors, workoutSchema, filters = {}, predic
 
   /** @type {Record<string, Record<string, number>>} */
   const workoutRanks = {}
+  // How many real competitors scored each workout (used to penalise missing predicted scores)
+  const scoredCounts = {}
 
   for (const [workoutKey, def] of Object.entries(workoutSchema)) {
     const scored = pool
       .map(c => ({ c, score: getWorkoutTotal(c, workoutKey) }))
       .filter(({ score }) => score !== null)
+
+    scoredCounts[workoutKey] = scored.filter(({ c }) => !c._isPredicted).length
 
     scored.sort((a, b) =>
       def.scoring === 'asc' ? a.score - b.score : b.score - a.score
@@ -99,7 +103,15 @@ export function rankCompetitors(competitors, workoutSchema, filters = {}, predic
 
   let result = pool.map(c => {
     const wRanks = workoutRanks[c._key] || {}
-    const points = Object.values(wRanks).reduce((sum, r) => sum + r, 0)
+    let points = 0
+    for (const workoutKey of Object.keys(workoutSchema)) {
+      if (wRanks[workoutKey] != null) {
+        points += wRanks[workoutKey]
+      } else if (c._isPredicted) {
+        // No score entered for this workout — penalise as dead last among real competitors
+        points += scoredCounts[workoutKey] + 1
+      }
+    }
     return { ...c, workoutRanks: wRanks, points }
   })
 
